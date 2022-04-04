@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelpicture</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- BOTTOM NAVIGATION VIEW -->
+    <string name="bottom_navigation_menu_profil">Profil</string>
+    <string name="bottom_navigation_menu_map">Map</string>
+    <string name="bottom_navigation_menu_tchat">Tchat</string>
+    <string name="profil">Profil</string>
+    <string name="map">Map</string>
+    <string name="forum">Forum</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
